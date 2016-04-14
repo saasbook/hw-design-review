@@ -1,10 +1,10 @@
 # Technical Presentation Review
 
 The goal of this assignment is for your team as a group to provide
-feedback to another team's technical presentation.
-
-Depending on how your instructor uses this assignment, multiple teams
-may give feedback on the same presentation.
+feedback to another team's technical presentation.  The focus should
+be on how effective the presentation is, rather than the technical
+content itself.  (So a clear presentation of a technical idea you're
+suspicious of should still get a good review.)
 
 ## Presenting Team
 
@@ -39,17 +39,20 @@ team presents a single review.
 
 The review should address at least the following:
 
-* Identify at least one positive point and one point that could use
-improvement about the presentation technique.  (Did the speaker(s) make
-eye contact with the audience, or just read off a page?  Was the
+* Did the presentation feel like it had been rehearsed?  For example,  
+did the speaker(s) make
+eye contact with the audience, or just read off a page?
+
+* Was the
 sequence of ideas clearly presented?  Did the content of the slides
 complement what was being said, or were the slides mostly paragraphs of
-text pasted into PowerPoint?)  In general, this item captures whether
-you felt the speaker(s) were well prepared.  If there were multiple
-speakers, you can give separate comments specific to one or more of them.
+text pasted into PowerPoint?
 
-* Identify at least one positive point and one point that could use
-improvement about the technical content of the presentation.
+*  Identify at least one positive point about the presentation,
+and one point that could use
+improvement.  Be specific: your comments should be phrased such that
+if you received that comment, you would be able to take specific
+action in response to it.
 
 * Identify one idea you might adopt for your own future
 projects as a result of something you saw in the presentation.
