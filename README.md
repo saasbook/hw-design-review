@@ -18,3 +18,6 @@ perform design reviews of each other's code.
 become better at technical presentations.
 
 * The technical presentations will be [evaluated by the student's peers](presentation_review.md) according to a specific rubric, to help students learn to give good technical feedback.
+
+* Finally, the [handoff](final_checkpoint.md) ensures that another team can gracefully pick up this project and
+continue working on it in the future.
