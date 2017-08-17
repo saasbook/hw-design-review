@@ -161,14 +161,17 @@ deliverable, below.
 After the meeting, each home team should produce a meeting report that highlights the
 following:
 
-* In the opinion of the home team, did the visiting team arrive at the
+1. In the opinion of the home team, did the visiting team arrive at the
 meeting well prepared?
 
-* In the opinion of the home team, were all the members of the visiting
+2. In the opinion of the home team, were all the members of the visiting
 team present and actively engaged in the technical discussion (vs. one
 or two people dominating)?
 
-* Based on the feedback, list at least two technical suggestions you
+3. Based on the feedback, list at least two technical suggestions you
 received that, even if you don't have time to implement them, might
 represent an improvement to your app's design.
+
+Evaluation of the report will focus on whether you provided well-explained answers to the above questions. 
+For example, for question #1, don't just say "yes"; give a specific example of how the visiting team was well prepared (or not well prepared).
 
