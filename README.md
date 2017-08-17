@@ -11,9 +11,10 @@ equally important is the audience's ability to absorb that presentation
 and provide specific constructive feedback---whether about the
 clarity of the presentation itself or the technical content presented.
 
-* This [design review assignment](design_review.md) pairs up student project teams to
+* The [design review assignment](design_review.md) pairs up student project teams to
 perform design reviews of each other's code.
 
-* This [technical presentation review assignment](presentation_review.md) helps students
-become better at evaluating and giving good feedback on technical
-presentations.
+* The [technical presentation](presentation_guidelines.md) assignment helps students
+become better at technical presentations.
+
+* The technical presentations will be [evaluated by the student's peers](presentation_review.md) according to a specific rubric, to help students learn to give good technical feedback.
