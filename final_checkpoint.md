@@ -15,12 +15,5 @@ configuration needed to make this happen
 * If any additional steps are necessary to try out the app--seed the database with fake data, use a particular login name/password, 
 etc.--ensure these work as documented
 
-## Deliverable 1 (visiting team)
+**The teams must work together to get each others' apps stood up.**  Each team will only get credit for the final checkpoint if they *both* help the other team get their app in shape *and* get their own app in good enough shape for the other team to stand it up.
 
-Report to the home team in a timely manner any problems in getting the above steps to work. Email them this feedback and Cc your instructor/coach 
-at least 5 days before the final deliverable deadline.
-
-## Deliverable 2 (visiting team)
-
-By the final deliverable deadline, email home team and Cc your GSI either confirming that all works well, or 
-documenting outstanding problems that haven't been addressed despite your contacting the home team in Deliverable 1.
