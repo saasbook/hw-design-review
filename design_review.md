@@ -92,8 +92,8 @@ see which movies they're going to.  The app also integrates with TMDb
 (The Movie Database) to show critics' reviews of certain movies.
 
 The second part should list
- **at least five** specific
-technical questions or suggestions for the home team.  The best
+ **at least three** specific
+technical questions or suggestions for the home team (more is OK).  The best
 technical questions are those that ask about a design choice and
 possibly propose an alternative.  For example: 
 
