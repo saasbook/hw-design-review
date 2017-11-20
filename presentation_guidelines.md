@@ -6,12 +6,13 @@ The goal of the presentation is to give us (and your fellow students) insights a
 
 ## Main points you should cover
 
+* Indicate if this is a brand new ("greenfield") app or improvements to a legacy app
 * Brief overview of the customer’s need,and core features requested by them
-* One or more specific technical challenges you faced, and how you addressed them. Did design patterns play a role? Did you have to extend/revise your design as you made progress on features?
+* One or more specific technical challenges you faced, and how you addressed them. Did design patterns play a role? Did you have to extend/revise your design as you made progress on features? Did you find yourself having to refactor or otherwise improve legacy code in order to make progress on your features?
 * What worked well and not-so-well in terms of your interaction with the customer (both in the iteration meetings and any other communications)
-* What worked well and not-so-well (or what you wish you had done differently/better) in terms of your team's technical approach to working together, following the Agile practices each iteration, and so on: division of labor, strategies for coordinating teamwork, team communication, etc.
-* Pitfalls you would warn future developers about
-* If you had 1 more iteration, what would you try to get done? 5 more iterations?
+* What worked well and not-so-well (or what do you wish you had done differently/better) in terms of your team's technical approach to working together, following the Agile practices each iteration, and so on?  Possible topics (you don't have to address all of them) might include division of labor, strategies for coordinating teamwork, team communication, etc.
+* Any pitfalls you would warn future developers about regarding this app?
+* If you had 1 or 2 more iterations, what would you try to get done?
 
 ## Keep in mind while preparing your presentation
 
