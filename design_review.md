@@ -44,6 +44,11 @@ characterization tests, but the other approaches are still useful:
 * Understand what business problem the home team's app solves.  If the
 home team recorded a customer interview, watch it.
 
+* **Important:** If the home team started from an existing (legacy) app, which
+is the most common case, the home team should clearly indicate to the visiting
+(reviewing) team which parts of the codebase they worked on, so that the review
+can focus on those changes.
+
 * Make sure you have access to all of the design documents, whether they
 are part of the GitHub code repo or elsewhere.
 
