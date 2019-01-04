@@ -9,8 +9,9 @@ The visiting team will:
 * Clone the home team's repo, and ensure that  `bundle install --without production` and `rake db:setup`  run successfully (if any additional preparation steps are needed to deploy the app in development, ensure that the `README.md` explains them clearly)
 * Ensure `rails server` starts the app successfully
 * Ensure `rake cucumber` and `rake spec` pass all the tests on master branch and do not give errors
-* Ensure the app can be deployed to Heroku (or some other way, if so indicated in its `README.md`), including documentation of any addons, environment variables (`figaro`), or special 
-configuration needed to make this happen
+* Ensure `rake cucumber` does not have undefined steps
+* Ensure `rake spec` does not have have skipped scenarios
+* Ensure the app can be deployed to Heroku (or some other way, if so indicated in its `README.md`), including documentation of any addons, environment variables (`figaro`), or special configuration needed to make this happen
 * If any additional steps are necessary to try out the app in production--putting fake data into the database, using a particular login name/password to behave as an admin vs. a regular user,
 etc.--ensure these work as documented as well
 
