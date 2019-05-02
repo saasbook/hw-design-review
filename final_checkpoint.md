@@ -2,7 +2,7 @@
 
 The goal of this checkpoint is to ensure your project can be handed off to a future team for enhancements and maintenance.
 
-Each project will be "checked off" for this deliverable by the same project team with whom they did the Design Review assignment, which we'll call the "visiting team" again.
+We'll say the "home team" is the one whose repo is being reviewed, and the "visiting team" is the team doing the review.
 
 The visiting team will:
 
@@ -17,3 +17,8 @@ etc.--ensure these work as documented as well
 
 **The teams must work together to get each others' apps stood up.**  Each team will only get credit for the final checkpoint if they *both* help the other team get their app in shape *and* get their own app in good enough shape for the other team to stand it up.
 
+The home team will:
+
+* Ensure that all branches in their repo have either been merged upstream to the master branch/master repo, or have been killed. That is, at the close of the project engagement, there should be no open/unmerged branches in the home team's repo or fork.
+* Ensure that all Pivotal Tracker stories are either Unstarted, Accepted, or (if absolutely necessary) Rejected.  That is, no stories should be a started-but-unfinished state, and all finished stories should be signed off by the Customer or Product Owner (Accepted or Rejected) and, if accepted, deployed to the cloud.
+* All features that have been merged upstream are also deployed to production (in whatever manner is appropriate for that customer).
